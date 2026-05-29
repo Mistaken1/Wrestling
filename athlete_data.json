@@ -1,0 +1,962 @@
+{
+    "ARMANI BRELAND": {
+        "weight_class": "190",
+        "team": "Canyon Springs"
+    },
+    "Aaden Gapusan": {
+        "weight_class": "106",
+        "team": "Shadow Ridge"
+    },
+    "Adan Gomez": {
+        "weight_class": "120",
+        "team": "Valley"
+    },
+    "Adrian Mungia Cortes": {
+        "weight_class": "175",
+        "team": "Valley"
+    },
+    "Adrian Ramos": {
+        "weight_class": "113",
+        "team": "Sunrise Mtn"
+    },
+    "Adrian Thompson": {
+        "weight_class": "138",
+        "team": "Valley"
+    },
+    "Aidan Kirk": {
+        "weight_class": "150",
+        "team": "Faith Lutheran"
+    },
+    "Aidan Patterson": {
+        "weight_class": "150",
+        "team": "Cimarron Memorial"
+    },
+    "Aiden Sharpton": {
+        "weight_class": "120",
+        "team": "Liberty"
+    },
+    "Alan Hayes": {
+        "weight_class": "175",
+        "team": "Liberty"
+    },
+    "Alexander Kirkman": {
+        "weight_class": "157",
+        "team": "Arbor View"
+    },
+    "Alexander Pikhienko": {
+        "weight_class": "150",
+        "team": "Bonanza"
+    },
+    "Amaury Perez-Mantilla": {
+        "weight_class": "144",
+        "team": "Sunrise Mtn"
+    },
+    "Amir Tolbert": {
+        "weight_class": "132",
+        "team": "Cimarron Memorial"
+    },
+    "Andrew Torres-Lara": {
+        "weight_class": "215",
+        "team": "Bonanza"
+    },
+    "Angel Arguello": {
+        "weight_class": "113",
+        "team": "Green Valley"
+    },
+    "Anthony Alanano": {
+        "weight_class": "150",
+        "team": "Basic"
+    },
+    "Anton Corral": {
+        "weight_class": "175",
+        "team": "Arbor View"
+    },
+    "Aris Ward": {
+        "weight_class": "144",
+        "team": "Coronado"
+    },
+    "Armando Ramos": {
+        "weight_class": "157",
+        "team": "Green Valley"
+    },
+    "Ashton Lopez": {
+        "weight_class": "157",
+        "team": "Shadow Ridge"
+    },
+    "Austin DelReal": {
+        "weight_class": "150",
+        "team": "Desert Pines"
+    },
+    "Axel Thomas": {
+        "weight_class": "144",
+        "team": "Mater Academy East"
+    },
+    "Ayden Morales": {
+        "weight_class": "157",
+        "team": "Bonanza"
+    },
+    "Benjamin Jaynes": {
+        "weight_class": "215",
+        "team": "Desert Oasis"
+    },
+    "Benjamin McClellan": {
+        "weight_class": "126",
+        "team": "Cheyenne"
+    },
+    "Benjamin Rodriguez": {
+        "weight_class": "165",
+        "team": "Cimarron Memorial"
+    },
+    "Benjamin Zierow": {
+        "weight_class": "157",
+        "team": "Lincoln"
+    },
+    "Boden Bradshaw": {
+        "weight_class": "113",
+        "team": "Boulder City"
+    },
+    "Bodie Anderson": {
+        "weight_class": "285",
+        "team": "Lincoln"
+    },
+    "Brandon Avila-Ramos": {
+        "weight_class": "126",
+        "team": "The Meadows School"
+    },
+    "Brandon Buchholz": {
+        "weight_class": "165",
+        "team": "Shadow Ridge"
+    },
+    "Braudrick Coleman": {
+        "weight_class": "215",
+        "team": "Valley"
+    },
+    "Brenden Noehl": {
+        "weight_class": "215",
+        "team": "Shadow Ridge"
+    },
+    "Brock Lasike": {
+        "weight_class": "190",
+        "team": "Pahranagat Valley"
+    },
+    "Brodee Garcia": {
+        "weight_class": "150",
+        "team": "Cheyenne"
+    },
+    "Brody Paul": {
+        "weight_class": "120",
+        "team": "Lake Mead Christian Academy"
+    },
+    "Caden Cook": {
+        "weight_class": "144",
+        "team": "Faith Lutheran"
+    },
+    "Cael Nelson": {
+        "weight_class": "165",
+        "team": "Basic"
+    },
+    "Caleb Borregoe": {
+        "weight_class": "138",
+        "team": "Bonanza"
+    },
+    "Callen Free": {
+        "weight_class": "126",
+        "team": "Lincoln"
+    },
+    "Cameron Barboza": {
+        "weight_class": "144",
+        "team": "Green Valley"
+    },
+    "Carson Field": {
+        "weight_class": "126",
+        "team": "Liberty"
+    },
+    "Cash Bazan": {
+        "weight_class": "175",
+        "team": "Faith Lutheran"
+    },
+    "Cesar Dominguez": {
+        "weight_class": "190",
+        "team": "Cimarron Memorial"
+    },
+    "Chase Vang": {
+        "weight_class": "106",
+        "team": "Desert Oasis"
+    },
+    "Chidubem Nnodim": {
+        "weight_class": "150",
+        "team": "The Meadows School"
+    },
+    "Christian Deleon": {
+        "weight_class": "126",
+        "team": "Basic"
+    },
+    "Christian Ware": {
+        "weight_class": "126",
+        "team": "Desert Pines"
+    },
+    "Christion Rogers": {
+        "weight_class": "120",
+        "team": "Faith Lutheran"
+    },
+    "Clayton Floyd": {
+        "weight_class": "285",
+        "team": "Green Valley"
+    },
+    "Coen Burrows": {
+        "weight_class": "150",
+        "team": "Boulder City"
+    },
+    "Cohen Thiriot": {
+        "weight_class": "106",
+        "team": "Pahranagat Valley"
+    },
+    "Conner Bellow": {
+        "weight_class": "175",
+        "team": "Lake Mead Christian Academy"
+    },
+    "Conner McCullough": {
+        "weight_class": "106",
+        "team": "Durango"
+    },
+    "Cooper Haines": {
+        "weight_class": "144",
+        "team": "Desert Oasis"
+    },
+    "Cory Schimpf": {
+        "weight_class": "126",
+        "team": "Faith Lutheran"
+    },
+    "Dallas Gaskin": {
+        "weight_class": "106",
+        "team": "Liberty"
+    },
+    "Dallas Wallace": {
+        "weight_class": "157",
+        "team": "Desert Pines"
+    },
+    "Damian Chavez": {
+        "weight_class": "120",
+        "team": "Cheyenne"
+    },
+    "Daniel Bae": {
+        "weight_class": "150",
+        "team": "Desert Oasis"
+    },
+    "Daniel Hernandez Torres": {
+        "weight_class": "175",
+        "team": "Mojave"
+    },
+    "Daniel Leal": {
+        "weight_class": "190",
+        "team": "Green Valley"
+    },
+    "Daniel Macias": {
+        "weight_class": "215",
+        "team": "Cheyenne"
+    },
+    "Daniel Miller": {
+        "weight_class": "175",
+        "team": "Pahranagat Valley"
+    },
+    "Darius Rafie": {
+        "weight_class": "150",
+        "team": "Coronado"
+    },
+    "Diego Rodriguez": {
+        "weight_class": "157",
+        "team": "Mojave"
+    },
+    "Diego Serrano": {
+        "weight_class": "150",
+        "team": "Mojave"
+    },
+    "Drayven Diaz": {
+        "weight_class": "138",
+        "team": "Shadow Ridge"
+    },
+    "Duke Greenman": {
+        "weight_class": "132",
+        "team": "The Meadows School"
+    },
+    "ELI VIVAS": {
+        "weight_class": "150",
+        "team": "Canyon Springs"
+    },
+    "Eduardo De Posada Campos": {
+        "weight_class": "150",
+        "team": "Green Valley"
+    },
+    "Elias Montiel": {
+        "weight_class": "120",
+        "team": "Green Valley"
+    },
+    "Elijah Leyva": {
+        "weight_class": "126",
+        "team": "Liberty"
+    },
+    "Elijah Newcomb": {
+        "weight_class": "285",
+        "team": "Mater Academy East"
+    },
+    "Elijah Paddock": {
+        "weight_class": "132",
+        "team": "Green Valley"
+    },
+    "Emilio Dominguez": {
+        "weight_class": "190",
+        "team": "Sunrise Mtn"
+    },
+    "Emilio Lara": {
+        "weight_class": "132",
+        "team": "Basic"
+    },
+    "Eric Trinidad-Rivas": {
+        "weight_class": "175",
+        "team": "Green Valley"
+    },
+    "Erick Garza": {
+        "weight_class": "132",
+        "team": "Boulder City"
+    },
+    "Ethan Cabasada": {
+        "weight_class": "215",
+        "team": "Coronado"
+    },
+    "Ethan Rider": {
+        "weight_class": "106",
+        "team": "Lake Mead Christian Academy"
+    },
+    "Ethan Rodriguez": {
+        "weight_class": "138",
+        "team": "Cimarron Memorial"
+    },
+    "Evan Maynor": {
+        "weight_class": "120",
+        "team": "Sunrise Mtn"
+    },
+    "Evan Paszek": {
+        "weight_class": "157",
+        "team": "Coronado"
+    },
+    "Evan Yim": {
+        "weight_class": "150",
+        "team": "Desert Oasis"
+    },
+    "Ezekiel Arredondo": {
+        "weight_class": "144",
+        "team": "Valley"
+    },
+    "Ezra Te": {
+        "weight_class": "138",
+        "team": "Bonanza"
+    },
+    "Forfeit Forfeit": {
+        "weight_class": "138",
+        "team": ""
+    },
+    "GI-REECE BATTLE": {
+        "weight_class": "106",
+        "team": "Canyon Springs"
+    },
+    "Gabrian Myers": {
+        "weight_class": "190",
+        "team": "Lake Mead Christian Academy"
+    },
+    "Gabriel Tufo": {
+        "weight_class": "175",
+        "team": "Durango"
+    },
+    "Gary Osborn": {
+        "weight_class": "285",
+        "team": "Lincoln"
+    },
+    "Gavin Forgue": {
+        "weight_class": "132",
+        "team": "Bonanza"
+    },
+    "German Vega": {
+        "weight_class": "150",
+        "team": "Valley"
+    },
+    "Grayson Kim": {
+        "weight_class": "132",
+        "team": "The Meadows School"
+    },
+    "Grayson Lawrence": {
+        "weight_class": "126",
+        "team": "Arbor View"
+    },
+    "Greysen Hurst": {
+        "weight_class": "144",
+        "team": "Durango"
+    },
+    "Hector Jackson": {
+        "weight_class": "132",
+        "team": "Lincoln"
+    },
+    "Holden Polier": {
+        "weight_class": "215",
+        "team": "Durango"
+    },
+    "Hubert Eiley": {
+        "weight_class": "138",
+        "team": "Mojave"
+    },
+    "Ibrahim Maali": {
+        "weight_class": "165",
+        "team": "Coronado"
+    },
+    "Israel Mahoney": {
+        "weight_class": "190",
+        "team": "Coronado"
+    },
+    "Izsak Rosales": {
+        "weight_class": "190",
+        "team": "Bonanza"
+    },
+    "JESUS CASTANEDA": {
+        "weight_class": "190",
+        "team": "Canyon Springs"
+    },
+    "Ja`Mirr Johnson": {
+        "weight_class": "106",
+        "team": "Cheyenne"
+    },
+    "Jackson Free": {
+        "weight_class": "132",
+        "team": "Lincoln"
+    },
+    "Jaiden Arredondo": {
+        "weight_class": "113",
+        "team": "Desert Oasis"
+    },
+    "Jaiveer Judge": {
+        "weight_class": "113",
+        "team": "Coronado"
+    },
+    "Jaiven Tagama": {
+        "weight_class": "113",
+        "team": "Shadow Ridge"
+    },
+    "James Ray": {
+        "weight_class": "144",
+        "team": "Chaparral"
+    },
+    "James Zuniga": {
+        "weight_class": "132",
+        "team": "Shadow Ridge"
+    },
+    "Jared Fox": {
+        "weight_class": "157",
+        "team": "The Meadows School"
+    },
+    "Jason Carey": {
+        "weight_class": "126",
+        "team": "Bonanza"
+    },
+    "Jason Wehren": {
+        "weight_class": "106",
+        "team": "Green Valley"
+    },
+    "Jayden Escamilla": {
+        "weight_class": "106",
+        "team": "Desert Pines"
+    },
+    "Jayden Graham": {
+        "weight_class": "190",
+        "team": "Basic"
+    },
+    "Jayden Kuo": {
+        "weight_class": "138",
+        "team": "Coronado"
+    },
+    "Jeffrey Hardinger": {
+        "weight_class": "150",
+        "team": "Chaparral"
+    },
+    "Jeremiah Chavez": {
+        "weight_class": "150",
+        "team": "Green Valley"
+    },
+    "Jesse Dominguez-Spell": {
+        "weight_class": "175",
+        "team": "Bonanza"
+    },
+    "Jezler Duque Retana": {
+        "weight_class": "120",
+        "team": "Durango"
+    },
+    "Jiovanni Molina-Bennett": {
+        "weight_class": "165",
+        "team": "Chaparral"
+    },
+    "Joaquin Rodriguez": {
+        "weight_class": "215",
+        "team": "Sunrise Mtn"
+    },
+    "John Greenburg": {
+        "weight_class": "165",
+        "team": "Desert Oasis"
+    },
+    "Jonathan Eimicke": {
+        "weight_class": "138",
+        "team": "Arbor View"
+    },
+    "Jordan Cesario-Hernandez": {
+        "weight_class": "157",
+        "team": "Sunrise Mtn"
+    },
+    "Jorge Guzman": {
+        "weight_class": "175",
+        "team": "Sunrise Mtn"
+    },
+    "Jose Garcia": {
+        "weight_class": "144",
+        "team": "Desert Oasis"
+    },
+    "Jose Vazquez": {
+        "weight_class": "190",
+        "team": "Mojave"
+    },
+    "Josef Resendiz-Castro": {
+        "weight_class": "120",
+        "team": "Shadow Ridge"
+    },
+    "Joseph Calavano": {
+        "weight_class": "144",
+        "team": "Lake Mead Christian Academy"
+    },
+    "Joseph Majors": {
+        "weight_class": "144",
+        "team": "Basic"
+    },
+    "Joseph Nicci": {
+        "weight_class": "215",
+        "team": "Faith Lutheran"
+    },
+    "Joshua Allison-Cardenas": {
+        "weight_class": "285",
+        "team": "Chaparral"
+    },
+    "Joshua Huslig": {
+        "weight_class": "138",
+        "team": "Green Valley"
+    },
+    "Joshua Martinez": {
+        "weight_class": "113",
+        "team": "Bonanza"
+    },
+    "Josiah Butler": {
+        "weight_class": "138",
+        "team": "Basic"
+    },
+    "Josiah Fernancez": {
+        "weight_class": "132",
+        "team": "Shadow Ridge"
+    },
+    "Jovanni Guadarama": {
+        "weight_class": "190",
+        "team": "Cheyenne"
+    },
+    "Juan Ornellas": {
+        "weight_class": "120",
+        "team": "Desert Pines"
+    },
+    "Julian Desher - Perez": {
+        "weight_class": "132",
+        "team": "Desert Pines"
+    },
+    "Julian Huerta": {
+        "weight_class": "126",
+        "team": "Chaparral"
+    },
+    "Julian Manarang": {
+        "weight_class": "120",
+        "team": "Shadow Ridge"
+    },
+    "Julian Nolasco-Arroyo": {
+        "weight_class": "126",
+        "team": "Sunrise Mtn"
+    },
+    "Jullien Mejia": {
+        "weight_class": "150",
+        "team": "Liberty"
+    },
+    "Kaden Hagfeldt": {
+        "weight_class": "138",
+        "team": "Pahranagat Valley"
+    },
+    "Kekoa Aguirre": {
+        "weight_class": "126",
+        "team": "Lake Mead Christian Academy"
+    },
+    "Kenneth Bausch": {
+        "weight_class": "175",
+        "team": "Cimarron Memorial"
+    },
+    "Kingston Buffington": {
+        "weight_class": "175",
+        "team": "Coronado"
+    },
+    "Kingston Toalepai": {
+        "weight_class": "144",
+        "team": "Bonanza"
+    },
+    "Kris Nold": {
+        "weight_class": "144",
+        "team": "Pahranagat Valley"
+    },
+    "Kristofer Urbina": {
+        "weight_class": "190",
+        "team": "Valley"
+    },
+    "Kyran Keehu": {
+        "weight_class": "120",
+        "team": "Coronado"
+    },
+    "Lamar Jenkins": {
+        "weight_class": "190",
+        "team": "Chaparral"
+    },
+    "Lance Back": {
+        "weight_class": "285",
+        "team": "Pahranagat Valley"
+    },
+    "Lawrence Agustin Xhriz": {
+        "weight_class": "165",
+        "team": "Mojave"
+    },
+    "Leto Martin": {
+        "weight_class": "215",
+        "team": "Basic"
+    },
+    "Liam Davenport": {
+        "weight_class": "138",
+        "team": "The Meadows School"
+    },
+    "Liang Ramirez": {
+        "weight_class": "190",
+        "team": "Sunrise Mtn"
+    },
+    "Lloyd Adams": {
+        "weight_class": "215",
+        "team": "Boulder City"
+    },
+    "Louis Gallegos": {
+        "weight_class": "157",
+        "team": "Cimarron Memorial"
+    },
+    "Lucas Rabonza": {
+        "weight_class": "215",
+        "team": "Arbor View"
+    },
+    "MEHKI COLEMAN": {
+        "weight_class": "215",
+        "team": "Canyon Springs"
+    },
+    "MIKA`ELE KANUHA": {
+        "weight_class": "157",
+        "team": "Canyon Springs"
+    },
+    "Maikaileb Tapps": {
+        "weight_class": "157",
+        "team": "Desert Oasis"
+    },
+    "Maison Auclair": {
+        "weight_class": "157",
+        "team": "Pahranagat Valley"
+    },
+    "Manuel Valenzuela-Abraham": {
+        "weight_class": "132",
+        "team": "Cheyenne"
+    },
+    "Marcus Leal": {
+        "weight_class": "175",
+        "team": "Green Valley"
+    },
+    "Marek Stout": {
+        "weight_class": "157",
+        "team": "Pahranagat Valley"
+    },
+    "Mason Sinay": {
+        "weight_class": "165",
+        "team": "Lincoln"
+    },
+    "Matthew Newton": {
+        "weight_class": "106",
+        "team": "Coronado"
+    },
+    "Matthew Stosek": {
+        "weight_class": "165",
+        "team": "Green Valley"
+    },
+    "Max Mannino": {
+        "weight_class": "126",
+        "team": "Desert Oasis"
+    },
+    "Max Trenholm": {
+        "weight_class": "285",
+        "team": "Shadow Ridge"
+    },
+    "Mekyle Mir": {
+        "weight_class": "215",
+        "team": "The Meadows School"
+    },
+    "Mensi Compaore": {
+        "weight_class": "285",
+        "team": "Desert Oasis"
+    },
+    "Michael Oseguera": {
+        "weight_class": "132",
+        "team": "Lake Mead Christian Academy"
+    },
+    "Mioses Enciso": {
+        "weight_class": "138",
+        "team": "Chaparral"
+    },
+    "NICHOLAS SILVA": {
+        "weight_class": "285",
+        "team": "Canyon Springs"
+    },
+    "Nathaniel Lewis": {
+        "weight_class": "157",
+        "team": "Boulder City"
+    },
+    "Nick Villacreses": {
+        "weight_class": "175",
+        "team": "Shadow Ridge"
+    },
+    "Nico LaRocco": {
+        "weight_class": "175",
+        "team": "Desert Pines"
+    },
+    "Nico Scarpati": {
+        "weight_class": "190",
+        "team": "Shadow Ridge"
+    },
+    "Nicolas Gaxiola": {
+        "weight_class": "126",
+        "team": "Arbor View"
+    },
+    "Nikolas Gallardo": {
+        "weight_class": "175",
+        "team": "The Meadows School"
+    },
+    "Noah Esparza": {
+        "weight_class": "157",
+        "team": "Shadow Ridge"
+    },
+    "Noah Sanchez": {
+        "weight_class": "138",
+        "team": "Durango"
+    },
+    "Otis Ruth": {
+        "weight_class": "144",
+        "team": "Boulder City"
+    },
+    "Payson Rich": {
+        "weight_class": "190",
+        "team": "Liberty"
+    },
+    "Pita Takafua": {
+        "weight_class": "285",
+        "team": "Durango"
+    },
+    "Pookela Fernandez-Moniz": {
+        "weight_class": "144",
+        "team": "Mojave"
+    },
+    "Raiden Lai": {
+        "weight_class": "126",
+        "team": "Shadow Ridge"
+    },
+    "Ramses Montoya": {
+        "weight_class": "165",
+        "team": "Sunrise Mtn"
+    },
+    "Reece Dixon": {
+        "weight_class": "120",
+        "team": "Arbor View"
+    },
+    "Rex Marshall": {
+        "weight_class": "144",
+        "team": "Pahranagat Valley"
+    },
+    "Rhyden Hicks": {
+        "weight_class": "106",
+        "team": "Basic"
+    },
+    "Richard Zacharias": {
+        "weight_class": "165",
+        "team": "Pahranagat Valley"
+    },
+    "Rocco Ricafort": {
+        "weight_class": "144",
+        "team": "The Meadows School"
+    },
+    "Rocco Satallante": {
+        "weight_class": "126",
+        "team": "Faith Lutheran"
+    },
+    "Roman Pulefaasisina": {
+        "weight_class": "285",
+        "team": "Sunrise Mtn"
+    },
+    "Ronell Johnson": {
+        "weight_class": "215",
+        "team": "Chaparral"
+    },
+    "Ronnie Thomas": {
+        "weight_class": "113",
+        "team": "Durango"
+    },
+    "Roque Caballero": {
+        "weight_class": "138",
+        "team": "Mater Academy East"
+    },
+    "Ryan Birrell": {
+        "weight_class": "106",
+        "team": "Desert Oasis"
+    },
+    "Ryan Phillips": {
+        "weight_class": "150",
+        "team": "Liberty"
+    },
+    "Ryan Wolfe": {
+        "weight_class": "126",
+        "team": "Desert Oasis"
+    },
+    "Ryder Siegfried": {
+        "weight_class": "190",
+        "team": "Coronado"
+    },
+    "Rylan tolentino": {
+        "weight_class": "157",
+        "team": "Durango"
+    },
+    "SERGIO PRADO": {
+        "weight_class": "215",
+        "team": "Canyon Springs"
+    },
+    "Sean Hermosillo": {
+        "weight_class": "190",
+        "team": "Lincoln"
+    },
+    "Sebastian Acero": {
+        "weight_class": "132",
+        "team": "Desert Oasis"
+    },
+    "Sebastian Quintana": {
+        "weight_class": "138",
+        "team": "Desert Oasis"
+    },
+    "Sh`rod Jenkins": {
+        "weight_class": "175",
+        "team": "Chaparral"
+    },
+    "Shane Moulding": {
+        "weight_class": "157",
+        "team": "Basic"
+    },
+    "Thomas Paxton": {
+        "weight_class": "144",
+        "team": "Cimarron Memorial"
+    },
+    "Treyzten Gabrillo": {
+        "weight_class": "126",
+        "team": "Green Valley"
+    },
+    "Trigo Escobedo Guerrero": {
+        "weight_class": "165",
+        "team": "Desert Pines"
+    },
+    "Tristen Harman": {
+        "weight_class": "285",
+        "team": "Desert Pines"
+    },
+    "Trueitt Ciserella": {
+        "weight_class": "150",
+        "team": "Pahranagat Valley"
+    },
+    "Tyler Jahrling": {
+        "weight_class": "285",
+        "team": "Basic"
+    },
+    "Tyron Thomas": {
+        "weight_class": "150",
+        "team": "Mater Academy East"
+    },
+    "Tysin Kealiinohomoku-Salcedo": {
+        "weight_class": "120",
+        "team": "Desert Oasis"
+    },
+    "Tyson Daneils": {
+        "weight_class": "144",
+        "team": "Liberty"
+    },
+    "Va`a Alifipo": {
+        "weight_class": "157",
+        "team": "Liberty"
+    },
+    "Vaughn Geisendorf": {
+        "weight_class": "132",
+        "team": "Coronado"
+    },
+    "Vili Tupou": {
+        "weight_class": "285",
+        "team": "Durango"
+    },
+    "Walter Jones": {
+        "weight_class": "144",
+        "team": "Cheyenne"
+    },
+    "Will Smith": {
+        "weight_class": "113",
+        "team": "Basic"
+    },
+    "William Dura Meza": {
+        "weight_class": "285",
+        "team": "Desert Pines"
+    },
+    "Wyatt Kandt": {
+        "weight_class": "150",
+        "team": "Shadow Ridge"
+    },
+    "Zach Vollmoeller": {
+        "weight_class": "190",
+        "team": "Durango"
+    },
+    "ikaika Alcantara": {
+        "weight_class": "113",
+        "team": "Arbor View"
+    },
+    "jaylin morrison": {
+        "weight_class": "113",
+        "team": "Arbor View"
+    },
+    "jeremiah williamson": {
+        "weight_class": "150",
+        "team": "Arbor View"
+    },
+    "jonah albidrez": {
+        "weight_class": "132",
+        "team": "Arbor View"
+    },
+    "josias Gonzales": {
+        "weight_class": "144",
+        "team": "Arbor View"
+    },
+    "manuel hernandez": {
+        "weight_class": "285",
+        "team": "Arbor View"
+    },
+    "quintin longmire": {
+        "weight_class": "215",
+        "team": "Arbor View"
+    },
+    "righley pederson": {
+        "weight_class": "215",
+        "team": "Arbor View"
+    }
+}
