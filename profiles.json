@@ -1,0 +1,20 @@
+{
+    "elijah leyva": {
+        "Elo": 1500,
+        "Wins": 30,
+        "Losses": 11,
+        "Winrate": 0
+    },
+    "royal craig": {
+        "Elo": 1500,
+        "Wins": 27,
+        "Losses": 12,
+        "Winrate": 0
+    },
+    "tyson daniels": {
+        "Elo": 1500,
+        "Wins": 31,
+        "Losses": 19,
+        "Winrate": 0
+    }
+}
